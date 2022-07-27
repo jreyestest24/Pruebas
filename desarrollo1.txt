@@ -1,7 +1,3 @@
 esto contendria la parte html
-pasandola
-pasandola
-pasandola
-pasandola
-pasandola
-pasandola
+hola mundo verificate
+
